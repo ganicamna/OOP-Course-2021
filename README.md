@@ -1,2 +1,2 @@
 # oop_21_amna_ganic
-OOP COURSE 2021
+Labs from Object-Oriented Programming Course 2021
